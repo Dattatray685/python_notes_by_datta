@@ -30,6 +30,13 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       LOOPS
       Data Structures (List, Tuple, Set, Dictionary)
       Nested Loops
+
+-Funtion Notes
+
+      How to create function
+      KWARGS
+      ARGS
+      
 ---
 
 ## Who is this for?
@@ -42,4 +49,6 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 ## How to Use
 1. Open any topic file  
 2. Read the notes  
-3. Try examples in your Python IDE 
+3. Try examples in your Python IDE
+
+## Function Notes
