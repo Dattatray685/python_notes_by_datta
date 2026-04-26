@@ -36,7 +36,15 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       How to create function
       KWARGS
       ARGS
-      
+
+-LC_lambda_map_filter
+
+      List comprehension
+      Lambda Functions
+      Map
+      Filter Function
+
+
 ---
 
 ## Who is this for?
