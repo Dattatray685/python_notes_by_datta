@@ -26,6 +26,7 @@ f.close()"""
 #why we need to pickle the file or data?
 #transferred over networks
 #to build ML models convert the file in to pickle
+
 #serialisation
 import pickle
 l =[10,20,30,40,50,60]
@@ -33,6 +34,8 @@ f = open("vaibhav.pkl","wb")  #wb write in binary
 pickle.dump(l,f)
 f.close()
 print("data pickled successfully")
+
+
 """#unpickle desrialisation
 
 f = open("sample.pkl","rb")
