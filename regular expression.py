@@ -7,6 +7,7 @@ used to match, search, validate and manipulate the text
 #shahul@telxsi.com
 #charan@google.com
 """
+
 import re
 text  = "i have a cat"
 #find cat is present in above tex
@@ -23,6 +24,7 @@ print(re.sub("ml","machine learning",text3))
 print(re.split(" ",text3))
 text4 = "vaibhavsalunke@gmail.com"
 print(re.split("@",text4))
+
 """
 ^ --> starts with
 $ --> ends with
