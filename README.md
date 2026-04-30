@@ -51,14 +51,20 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
       File Handling
       Pickling
+      
 -oops notes
 
       Class 
       object
+      
 -Iterators
 
      1.__iter__()
      2.__next__()
+
+-Regular expression
+
+      Regular expression(RegEX)
 
       
 
