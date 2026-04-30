@@ -82,4 +82,4 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 2. Read the notes  
 3. Try examples in your Python IDE
 
-## Function Notes
+
