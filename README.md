@@ -64,7 +64,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
 -Regular expression
 
-      Regular expression(RegEX)
+      Regular expression
 
       
 
