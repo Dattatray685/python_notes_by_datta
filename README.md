@@ -71,6 +71,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 -python coding practice questions
 
       python practice question
+      practice question 
 
       
 
