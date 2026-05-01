@@ -67,6 +67,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       Regular expression
            1.search(pattern,text)
            2.findall(pattern,text)
+           
+-python coding practice questions
 
       
 
