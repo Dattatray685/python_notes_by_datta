@@ -79,6 +79,9 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
      introduction to numpy
           There are 3 types
+               1.1D-array
+               2.2D-array
+               3.3D-array
 
       
 
