@@ -72,6 +72,9 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
       python practice question
       practice question map_lc_lambd
+      
+
+     -Numpy Notes
 
       
 
