@@ -78,6 +78,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 -Numpy Notes
 
      introduction to numpy
+          There are 3 types
 
       
 
