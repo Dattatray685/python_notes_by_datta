@@ -85,7 +85,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       Dot product on 2D rray is known as matrix mutliplication
       Boolean Indexing
       reshaping array's
-  Genarate Random Numbers
+      Genarate Random Numbers
   solving the linear systems
           
 
