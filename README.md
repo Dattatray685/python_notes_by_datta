@@ -68,7 +68,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
            1.search(pattern,text)
            2.findall(pattern,text)
            
--python coding practice questions
+-python_coding practice questions
 
       python practice question
       practice question map_lc_lambd
