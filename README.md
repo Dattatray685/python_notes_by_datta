@@ -86,7 +86,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       Boolean Indexing
       reshaping array's
       Genarate Random Numbers
-  solving the linear systems
+      solving the linear systems
           
 
       
