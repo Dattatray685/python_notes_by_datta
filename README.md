@@ -73,15 +73,21 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       python practice question
       practice question map_lc_lambd
       
-## Topics Covered
+#Numpy Notes
 
--Numpy Notes
-
-     introduction to numpy
-          There are 3 types
-               1.1D-array
-               2.2D-array
-               3.3D-array
+      Introduction to Numpy
+      What are all numerical operations acheived easily with numpy
+      The central object in numpy is Numpy array
+      essential methods in Numpy to access the data
+      element wise maths operations
+      Dot Product
+      2D Array's
+      Dot product on 2D rray is known as matrix mutliplication
+      Boolean Indexing
+      reshaping array's
+  Genarate Random Numbers
+  solving the linear systems
+          
 
       
 
