@@ -89,8 +89,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       solving the linear systems
       
 #Numpy Task
-
-
+      
+      practice question 
           
 
       
