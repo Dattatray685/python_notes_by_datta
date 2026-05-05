@@ -94,11 +94,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
 #Pandas Notes
 
-      
-          
-
-      
-
+       Introduction to Pandas
+       
 ---
 
 ## Who is this for?
