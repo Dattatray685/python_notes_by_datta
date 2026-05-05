@@ -95,6 +95,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 #Pandas Notes
 
        Introduction to Pandas
+       Series :- 1D labelled array
        
 ---
 
