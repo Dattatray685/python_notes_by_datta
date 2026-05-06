@@ -99,6 +99,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        DataFrame
        export and import of Dataframes
        DataFrame function
+       access the data from df
 
 
 
