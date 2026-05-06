@@ -97,6 +97,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Introduction to Pandas
        Series :- 1D labelled array
        DataFrame
+       export and import of Dataframes
+       DataFrame function
 
 
 
