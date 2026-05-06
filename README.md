@@ -100,6 +100,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        export and import of Dataframes
        DataFrame function
        access the data from df
+       loc and iloc
 
 
 
