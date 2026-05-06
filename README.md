@@ -103,6 +103,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        loc and iloc
        df.iloc[row_axis,col_axis]
        fill the null values
+       Handling the missing data
 
 
 
