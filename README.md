@@ -111,8 +111,6 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        remove the rows from data frame
        Pivot Tables
        apply()
-
-#Pandas Task
        
        
 
