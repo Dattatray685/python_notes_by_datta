@@ -110,7 +110,6 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        drop the columns
        remove the rows from data frame
        Pivot Tables
-       Group By Functions
        apply()
 
 
