@@ -112,6 +112,9 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Pivot Tables
        apply()
 
+#pandas task
+        
+
 
 
        
