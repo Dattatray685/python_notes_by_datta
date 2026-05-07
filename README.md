@@ -112,7 +112,6 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Pivot Tables
        Group By Functions
        apply()
-       Generate dates
 
 
 
