@@ -106,7 +106,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Handling the missing data
        Fill null values
        Data Manipulation in Pandas
-         Add columns into DataFrame
+       Add columns into DataFrame
        drop the columns
        remove the rows from data frame
        Pivot Tables
