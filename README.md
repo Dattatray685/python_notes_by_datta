@@ -119,9 +119,13 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 #Data Visualization
 
        Introduction to Data visualisation
+            matplotlib
+            seaborn
+       
        scatter plot
        Histogram
        Bar Plot
+       PiePlot
 
        
        
