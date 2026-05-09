@@ -113,8 +113,12 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        apply()
 
 #Pandas Task
-
+        
        practice question 
+
+#Data Visualization
+
+       Introduction to Data visualisation
 
        
        
