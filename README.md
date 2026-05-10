@@ -116,7 +116,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
         
        practice question 
 
-#Data Visualization
+#Data Visualization (MET_DV_Notes)
 
        Introduction to Data visualisation
             matplotlib
