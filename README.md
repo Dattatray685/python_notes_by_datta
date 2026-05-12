@@ -129,7 +129,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
 #Power BI Notes
 
-       
+       Data modelling 
+       Data connections 
        
        
        
