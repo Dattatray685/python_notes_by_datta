@@ -127,10 +127,9 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        practice question --Data Visualisation assignment
 
 
+#Power BI Notes
 
-
-
-#statistics session
+       
        
        
        
