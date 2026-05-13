@@ -135,7 +135,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Creating compelling reports
        Harness the data visualisation techniques
        DAX
-       ETL process. 
+       
 
 
         
