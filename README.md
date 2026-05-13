@@ -134,6 +134,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Transforming the raw data into actionable insights
        Creating compelling reports
        Harness the data visualisation techniques
+       DAX
+       ETL process. 
 
 
         
