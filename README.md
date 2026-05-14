@@ -144,6 +144,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        basice query's
        how create , insert , delete table
        conditions statement
+       logical operators in sql
 
 
         
