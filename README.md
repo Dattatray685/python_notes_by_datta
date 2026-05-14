@@ -147,6 +147,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        logical operators in sql
        aggrigate functions
        creating new function learn about aggrigate function
+       where , having and group by
 
 
         
