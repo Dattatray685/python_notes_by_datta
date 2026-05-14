@@ -145,6 +145,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        how create , insert , delete table
        conditions statement
        logical operators in sql
+       aggrigate functions
 
 
         
