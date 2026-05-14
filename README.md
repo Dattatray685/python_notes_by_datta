@@ -138,6 +138,11 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        ETL process. 
 
 
+#MYSQL NOTES
+
+       
+
+
         
 
 
