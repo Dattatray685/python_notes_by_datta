@@ -148,6 +148,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        aggrigate functions
        creating new function learn about aggrigate function
        where , having and group by
+       JOINS,LEFT JOIN,ROGHT JOIN,INNER KOIN,FULL JOIN,CROSS JOIN,SELF JOIN
 
 
         
