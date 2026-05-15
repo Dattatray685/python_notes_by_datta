@@ -151,6 +151,11 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        JOINS,LEFT JOIN,ROGHT JOIN,INNER KOIN,FULL JOIN,CROSS JOIN,SELF JOIN
 
 
+#mysql assignment
+
+       practice queestion
+
+
         
 
 
