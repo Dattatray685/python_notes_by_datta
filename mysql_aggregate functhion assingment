@@ -46,6 +46,7 @@ select * from student;
 select avg(marks) from student
 where course in ('Dse')
 group by course;
+
 -- 2. List the average marks of dse students for each location
 select location,avg(marks) from student
 where course in ('Dse')
