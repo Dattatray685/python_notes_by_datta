@@ -51,6 +51,7 @@ group by course;
 select location,avg(marks) from student
 where course in ('Dse')
 group by location;
+
 -- 3. list the average marks of students in bangalore for different courses
 select location,course,avg(marks) from student
 where location in ('bangalore')
