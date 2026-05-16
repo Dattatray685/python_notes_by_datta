@@ -1,0 +1,87 @@
+----- assingment-----
+
+USE sql_training_12;
+
+create table student 
+(id integer primary key, 
+course varchar(10),
+location varchar(10),
+batch integer,
+marks integer
+);
+
+
+insert into student values(1,'Mtech','Bangalore',1,70);
+insert into student values(2,'Mtech','Bangalore',1,85);
+insert into student values(3,'Mtech','Bangalore',1,71);
+insert into student values(4,'Mtech','Bangalore',1,64);
+insert into student values(5,'Mtech','Bangalore',2,55);
+insert into student values(6,'Mtech','Bangalore',2,74);
+insert into student values(7,'Mtech','Bangalore',2,84);
+insert into student values(8,'Mtech','Bangalore',2,63);
+insert into student values(9,'Mtech','Chennai',1,50);
+insert into student values(10,'Mtech','Chennai',1,98);
+insert into student values(11,'Mtech','Chennai',1,67);
+insert into student values(12,'Mtech','Chennai',1,20);
+insert into student values(13,'Dse','Bangalore',1,64);
+insert into student values(14,'Dse','Bangalore',1,88);
+insert into student values(15,'Dse','Bangalore',1,79);
+insert into student values(16,'Dse','Bangalore',1,69);
+insert into student values(17,'Dse','Chennai',1,80);
+insert into student values(18,'Dse','Chennai',1,61);
+insert into student values(19,'Dse','Chennai',1,39);
+insert into student values(20,'Dse','Chennai',1,48);
+insert into student values(21,'Dse','Chennai',1,96);
+insert into student values(22,'Dse','Chennai',2,78);
+insert into student values(23,'Dse','Chennai',2,69);
+insert into student values(24,'Dse','Chennai',2,86);
+insert into student values(25,'Dse','Chennai',2,93);
+insert into student values(26,'Dse','Chennai',2,66);
+insert into student values(27,'Dse','Chennai',1,80);
+insert into student values(28,'Mtech','Bangalore',1,85);
+
+select * from student;
+
+-- 1. List the average marks of dse students
+select avg(marks) from student
+where course in ('Dse')
+group by course;
+-- 2. List the average marks of dse students for each location
+select location,avg(marks) from student
+where course in ('Dse')
+group by location;
+-- 3. list the average marks of students in bangalore for different courses
+select location,course,avg(marks) from student
+where location in ('bangalore')
+group by location,course
+order by avg(marks) desc;
+-- 4. List the average marks of dse students for each location,batch
+select batch,location,avg(marks) from student
+where course in ('Dse')
+group by batch,location;
+-- 5. list the highest mark in each course, location wise
+select course,location,max(marks) from student
+group by course,location;
+-- 6. list the highest mark in each course, location,batch wise
+select batch,course,location,max(marks) from student
+group by batch,course,location;
+-- 7. List the highest mark in each location
+select location,max(marks) from student
+group by location;
+ -- 8. List students who have got more than 75 marks
+ select* from student
+where marks > 75
+order by marks desc;
+
+-- 9 List the number of mtech student in Chennai
+select count(*) from student
+where course in ('mtech') and location in ('chennai');
+
+-- 10. List students who have got less than 40 in Chennai
+select * from student
+where marks < 40 and location in ("chennai");
+
+-- 11. List the top 3 performers in DSE and Mtech
+select * from student
+where course in ('mtech','Dse')
+order by marks desc limit 3;
