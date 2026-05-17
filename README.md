@@ -158,7 +158,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
 #python coding practice (revision)
 
-
+       there are 5 sections
         
 
 
