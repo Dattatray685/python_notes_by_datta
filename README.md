@@ -160,7 +160,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
        there are 5 sections
        each section have 4-5 quetion
-       
+       try to solve it on paper
 
 
 
