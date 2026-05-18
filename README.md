@@ -167,6 +167,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Data modelling 
        Data connections
        Transforming the raw data into actionable insights
+       Creating compelling reports
 
 
 
