@@ -162,6 +162,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        each section have 4-5 quetion
        try to solve it on paper
        
+#PowerBI Notes      
 
 
 
