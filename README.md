@@ -175,6 +175,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        DAX Functions
           1.maths and stats
           2.text
+          3.logical function
 
 
 
