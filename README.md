@@ -178,6 +178,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           3.logical function
           4.Date and Time
           5.Table
+          6.Realtionships
 
 
 
