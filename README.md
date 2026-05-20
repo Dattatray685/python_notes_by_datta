@@ -171,6 +171,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Harness the data visualisation techniques
        DAX
        ETL process.
+       DAX Components
+       
 
 
 
