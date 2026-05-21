@@ -181,7 +181,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           6.Realtionships
        DAX logical functions
           1.  IF()
-          2. Switch() 
+          2. Switch()
+          3. AND()
 
 
 
