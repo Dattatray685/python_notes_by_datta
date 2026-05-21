@@ -183,6 +183,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           1.  IF()
           2. Switch()
           3. AND()
+          4. OR()
 
 
 
