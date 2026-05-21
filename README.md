@@ -180,6 +180,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           5.Table
           6.Realtionships
        DAX logical functions
+          1.  IF() 
 
 
 
