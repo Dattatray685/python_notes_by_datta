@@ -187,6 +187,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           5. NOT()
           6. IFERROR()
           7. ISBLANK()
+          8. Contains()
 
 
 
