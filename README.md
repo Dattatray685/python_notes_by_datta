@@ -186,6 +186,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           4. OR()
           5. NOT()
           6. IFERROR()
+          7. ISBLANK()
 
 
 
