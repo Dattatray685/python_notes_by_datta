@@ -184,6 +184,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           2. Switch()
           3. AND()
           4. OR()
+          5. NOT() 
 
 
 
