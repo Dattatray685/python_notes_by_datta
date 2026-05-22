@@ -188,6 +188,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           6. IFERROR()
           7. ISBLANK()
           8. Contains()
+       Dax Date and Time function
 
 
 
