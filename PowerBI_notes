@@ -77,4 +77,37 @@ Power query editor is graphical interface where we can interact with data transf
 
 
 
+#Day02 –06-05-2026
+
+1. Data connectivity modes
+2. Basics of data loading and transformation part 2
+3. Column quality, column distribution, column profile
+
+
+1. Data connectivity modes
+There 3 types of connectivity modes
+1. Import mode
+2. Direct mode
+3. Composite mode
+
+Import Mode : (we have access to download data)
+→ Import mode is default method for developing Power BI desktop solutions and most commonly using method.
+
+What are drawbacks of Import mode?
+→ full refresh deletes all the data from the table and reload all the data from source. So it takes alot of time.
+
+2. Direct mode:
+
+→ In this mode the data is not imported into the model. instead they are simply metadata. Tht defines the model structure 
+
+Q)when do we need to use the direct mode?
+There are 3 reasons to use the direct mode 
+1.	The company will not allow downloading the data but provide the access to read the data 
+2.	When the data are too enormous to load into model  or practical refresh 
+3.	When the reports and dashboards must give real-time  data that exceeds the constraints of scheduled refresh then we can use direct mode.
+
+#what are disadvantages and drawback of direct mode?
+Power query expression can only be works to native queries  that the data source understand
+
+3.Composite Mode :  allows  you to combine both import and direct mode
 
