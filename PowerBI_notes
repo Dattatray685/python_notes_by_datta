@@ -134,4 +134,14 @@ Note:- if there is any column related to currency in PowerBi change the data typ
 Step3 : replace the null values and remove the empty rows 
 
 Remove empty rows → power query → Home tab → remove rows 
+Step4:  Check the column quality and distribution  of data in column and column stats
+
+column quality and distribution  of data in column and column stats  → power query → view[tab]
+
+Column quality → shows the quality features and labels (% of errors and % empty cells)
+
+Column distribution → offers a series of visualisation with distinct values and unique values 
+
+Column profile →  shows the column statistics and column value distribution graph
+
 
