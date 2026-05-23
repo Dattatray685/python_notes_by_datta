@@ -110,4 +110,23 @@ There are 3 reasons to use the direct mode
 Power query expression can only be works to native queries  that the data source understand
 
 3.Composite Mode :  allows  you to combine both import and direct mode
+Import the data into PowerBI:
+
+Home[tab]  → select [Get data] option  → csv
+
+What is a delimiter?
+Delimiter is a special character that separates each data point → ,  <space>
+
+There are some null values and unwanted values in customer file so we need to use power-query editor to transform the data into structural form
+
+In power-query editor first promote first row as a header  →
+
+Transform data → Power query editor → home [tab] → select [use first row as a header] 
+
+Step2: Check the data type of each column and correct it 
+
+Change the data type of age column to whole number 
+
+Change the data type of column other family members
+
 
