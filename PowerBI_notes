@@ -129,4 +129,9 @@ Change the data type of age column to whole number
 
 Change the data type of column other family members
 
+Note:- if there is any column related to currency in PowerBi change the data type to the “fixed decimal number”
+
+Step3 : replace the null values and remove the empty rows 
+
+Remove empty rows → power query → Home tab → remove rows 
 
