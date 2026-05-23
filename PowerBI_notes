@@ -1,0 +1,80 @@
+#Objective :- 
+
+1.	Data modelling 
+2.	Data connections 
+3.	Transforming the raw data into actionable insights
+4.	Creating compelling reports
+5.	Harness the data visualisation techniques
+6.	DAX
+7.	ETL process. 
+
+Day01 : 
+
+Introduction to PowerBI
+Installation and Setup of PowerBI
+PowerBI user interface
+Basics of Data Loading and data transformation part-1
+
+Introduction to PowerBI : 
+→  launched by microsoft  → 2015  july 24
+→ Mainly capable of business insights  and data visualisation in the market 
+→ Q) Which is better tool powerBI or Excel
+→ Both the tools have different functionality 
+→ Empower individuals to connect with various data sources and transform the model data into interactive reports and dashboards.
+
+#What is the primary objective PowerBI?
+→ Power BI enable the users users to give business insights from the data and communicate those business insights with stake holders.
+
+→ Excel has 1048576 rows if we hav e the data beyond that excel cannot adds the extra data .
+→ In excel if we cross 60 to 70 thousand rows excel becomes slow
+→ In PowerBI it takes as much as data .
+
+Features of PowerBI :
+1.	Data Connectivity 
+2.	Data transformation, Data modelling 
+3.	Data visualisation 
+4.	DAX → Data analysis expression(allows users to perform calculations
+5.	Power Query :- it is a part of ETL in PowerBI where we can have data connectivity and data transformation.
+6.	Collaboration and sharing the dashboards
+7.	Mobile support 
+8.	Integration with microsoft products
+
+
+ Power BI :- is  a business intelligence tool developed by microsoft that transforms the raw data into interactive dashboards and meaningful insights.
+
+
+Installation and Setup of PowerBI 👍
+
+Q) What are the check we need to do before installation powerBI?
+A)Check excel version and check it is 32bit or 64bit
+There 2 ways to install Power
+1.	Install from Microsoft Store 
+2.	Install from official website
+
+
+Interface of Power Bi
+
+Home → transform data → it directly opens the power query editor
+
+Modelling → manage the data model and detect the relationship between data 
+
+Contextual menu → report view, model view, table view, DAX view, TMDL view 
+
+
+Basics of Data Loading and data transformation part-1:
+
+In power BI data loading and data transformation are the fundemenbtals to 
+1.	Import data 
+2.	Clean the data 
+3.	Shape your data 
+
+#what is power query editor?
+#Power Query Editor is powerful tool to manipulate,reshape,and combine the data from various sources    
+
+(or)
+
+Power query editor is graphical interface where we can interact with data transformation and manipulation task
+
+
+
+
