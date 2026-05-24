@@ -116,9 +116,7 @@ Home[tab]  → select [Get data] option  → csv
 
 What is a delimiter?
 Delimiter is a special character that separates each data point → ,  <space>
-
 There are some null values and unwanted values in customer file so we need to use power-query editor to transform the data into structural form
-
 In power-query editor first promote first row as a header  →
 
 Transform data → Power query editor → home [tab] → select [use first row as a header] 
@@ -126,16 +124,11 @@ Transform data → Power query editor → home [tab] → select [use first row a
 Step2: Check the data type of each column and correct it 
 
 Change the data type of age column to whole number 
-
 Change the data type of column other family members
-
 Note:- if there is any column related to currency in PowerBi change the data type to the “fixed decimal number”
-
 Step3 : replace the null values and remove the empty rows 
-
 Remove empty rows → power query → Home tab → remove rows 
 Step4:  Check the column quality and distribution  of data in column and column stats
-
 column quality and distribution  of data in column and column stats  → power query → view[tab]
 
 Column quality → shows the quality features and labels (% of errors and % empty cells)
