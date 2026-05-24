@@ -122,7 +122,6 @@ In power-query editor first promote first row as a header  →
 Transform data → Power query editor → home [tab] → select [use first row as a header] 
 
 Step2: Check the data type of each column and correct it 
-
 Change the data type of age column to whole number 
 Change the data type of column other family members
 Note:- if there is any column related to currency in PowerBi change the data type to the “fixed decimal number”
