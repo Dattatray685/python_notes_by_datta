@@ -132,7 +132,6 @@ Step4:  Check the column quality and distribution  of data in column and column 
 column quality and distribution  of data in column and column stats  → power query → view[tab]
 Column quality → shows the quality features and labels (% of errors and % empty cells)
 Column distribution → offers a series of visualisation with distinct values and unique values 
-
 Column profile →  shows the column statistics and column value distribution graph
 
 
