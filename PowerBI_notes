@@ -109,7 +109,6 @@ Power query expression can only be works to native queries  that the data source
 
 3.Composite Mode :  allows  you to combine both import and direct mode
 Import the data into PowerBI:
-
 Home[tab]  → select [Get data] option  → csv
 
 What is a delimiter?
