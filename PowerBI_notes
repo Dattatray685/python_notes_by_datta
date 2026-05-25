@@ -115,7 +115,6 @@ What is a delimiter?
 Delimiter is a special character that separates each data point → ,  <space>
 There are some null values and unwanted values in customer file so we need to use power-query editor to transform the data into structural form
 In power-query editor first promote first row as a header  →
-
 Transform data → Power query editor → home [tab] → select [use first row as a header] 
 
 Step2: Check the data type of each column and correct it 
