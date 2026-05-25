@@ -97,7 +97,6 @@ What are drawbacks of Import mode?
 → full refresh deletes all the data from the table and reload all the data from source. So it takes alot of time.
 
 2. Direct mode:
-
 → In this mode the data is not imported into the model. instead they are simply metadata. Tht defines the model structure 
 
 Q)when do we need to use the direct mode?
