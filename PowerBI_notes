@@ -136,3 +136,35 @@ Group by function
 Pivoting 
 Unpivoting
 
+Data profiling tools in Power Query
+
+What is data profiling?
+It is a process of understanding your data characters, data quality and structure of data.
+In data profiling it offers tools to process the text columns, numeric columns, Date and time columns
+
+Q)Where  we have data profiling tools?
+Data profiling tools available in add column tab and transform tab
+
+Q) What is diff b/w add column tab and transform tab?
+Add columns tab adds new column after applying the changes 
+Transform column we can replace the values in the same column
+
+What is text column ?
+It helps you to clean, transform and enhance the data in text column 
+
+Q)remove the unwanted spaces from the gender column ?
+Transform [tab]  → text colum  → format → trim 
+
+Trim :- removes the spac es from leading and trailing ends 
+
+What is difference between trim and clean?
+Trim :- removes the unwanted spaces from leading and trailing end
+Clean remove the spaces and alos non-printable characters    ex:-   null → /0
+
+Q) Get the GST price from customer table column (average annual spend)
+
+Select column [annual average spend] → add column[tab]  → select [standards] → multiply 18% → ok
+
+Conditional columns: Allows you to create new columns based on specific condition 
+Available in → ADD column [tab]
+
