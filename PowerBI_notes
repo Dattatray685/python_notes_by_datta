@@ -189,3 +189,5 @@ After group by → select [age category column] →select[pivot column] option�
 #unpivoting :- transform the data from tabular format to column format
 Select column → cntrl + columns → select unpivot column
 
+#11-05-2026
+Day04  PowerBi
