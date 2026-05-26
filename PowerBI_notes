@@ -128,4 +128,11 @@ Column quality → shows the quality features and labels (% of errors and % empt
 Column distribution → offers a series of visualisation with distinct values and unique values 
 Column profile →  shows the column statistics and column value distribution graph
 
+#07-05-2026
+Day03
+Data profiling tools in Power Query
+Conditional columns 
+Group by function
+Pivoting 
+Unpivoting
 
