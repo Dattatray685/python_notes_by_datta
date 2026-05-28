@@ -191,6 +191,8 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        Dax Date and Time function
           Today or Now()
 
+power bi
+
 
 
        
