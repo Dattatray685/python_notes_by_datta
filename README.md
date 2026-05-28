@@ -190,7 +190,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
           8. Contains()
        Dax Date and Time function
           Today or Now()
-
+capstone_project
 
 
 
