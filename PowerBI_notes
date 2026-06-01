@@ -181,11 +181,9 @@ Group by : is used to apply aggregate function (min,max,count,avg,sum)
 
 Q) find the total average annual spend according to gender and age category wise?
 Transform [tab] → select [group by] → select [advanced] → select [age category,gender] → column name [total avg annual spend] → operation[sum] → column [annual average spend]
-
 #pivoting :-  transform the data from column format to tabular format , short summery of your data representation 
 
 After group by → select [age category column] →select[pivot column] option→  value column [Total avg annual spend] → ok
-
 #unpivoting :- transform the data from tabular format to column format
 Select column → cntrl + columns → select unpivot column
 
