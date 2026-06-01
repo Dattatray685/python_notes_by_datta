@@ -188,3 +188,67 @@ Select column → cntrl + columns → select unpivot column
 
 #11-05-2026
 Day04  PowerBi
+#Queries  → merging, appending, refreshing
+  Date and time for data profiling 
+  Best practices of Power query editor
+
+ QUERIES:- 
+Q) What are queries? How can we define it?
+Query refers to the data transformation and manipulation operations  you perform on your source data before load the data to powerBi
+→ The  power query editor is a part of ETL process
+→ Queries are nothing but source data 
+
+Q)why do we need to merge the queries?
+Merging queries allows you to combine data from different sources and get the data in to a single unified table so it can be useful in data distributions across different tables and sources 
+→ merging useful in enriching the data 
+→ merging has to be done with caution 
+
+Q)merge the customer table and sales transaction table
+Merging can be done based on common columns 
+Power BI automatically finds its join kind 
+There are 6 types of joins 
+1. Left outer join :- all rows from left table and matched ros from right table
+2. right outer join :- all rows from right table and matched rows from left table
+3.full outer join :- all records from both the tables
+4.inner join :- matched records from both tables 
+5.left anti :-  unmatched rows from left table - unique rows from left table
+6.right anti join:- unique rows from right table 
+
+Q)when we need to avoid the merging?
+1. Multiple merges can slowdown the performance of the powerBi
+2.if there is a failure in merging leads to duplication of the data 
+
+#Q)what is the caution we need to take while merging?
+a) the common column data type must be same 
+
+#what is fuzzy matching ?
+It is a algorithm that controls degree of flexibility when your matching the records
+Append :- is a stacking or combining 2 or more queries. It is used when we have same data structure 
+
+Q) Append the sales transaction and new sales transaction?
+
+Q) What is the use of data source settings?
+Used to manage the path of source data 
+
+Q)How can we Dont load the queries in to powerbi desktop 
+
+#POWER QUERY BEST PRACTICES
+1.promote the headers
+2.use the description and descriptive stats
+3.handle the data types carefully
+4.remove the unnecessary columns 
+5.ensure currency data type → fixed decimal number 
+6.checking the quality of the data 
+7.fill the null values  
+8.applying the conditional statements, aggregate functions and groupby
+9.pivoting and unpivoting 
+10.error handling 
+11.data profiling and cleaning the data
+12.joins or merging of the queries , append queries
+13.handling the data source setting by editing the path to do refresh of your queries
+14.diable data loading and refresh in power bi desktop
+15.Handle the merging carefully by checking joins and data types
+16.Backups
+
+=============================================x==========================
+
