@@ -12,7 +12,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 ---
 
 ## Topics Covered
-  
+  -Python Basics Notes
      
       Numerical Data types
       Arthematic operations
