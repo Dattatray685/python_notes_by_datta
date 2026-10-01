@@ -43,6 +43,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       Lambda Functions
       Map
       Filter Function
+      
 -assignment_Week2_collections_lab.ipynb
 
       practice Question
