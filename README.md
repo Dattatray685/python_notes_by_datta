@@ -1,4 +1,3 @@
-
 # Python Basics Notes
 
 Welcome to my Python Notes Repository!  
