@@ -1,4 +1,4 @@
-# Python Basics Notes
+a# Python Basics Notes
 
 Welcome to my Python Notes Repository!  
 This repository contains simple and easy-to-understand notes for learning Python basics.
