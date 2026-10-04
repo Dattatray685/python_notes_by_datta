@@ -199,7 +199,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
        
 ---
 
-## Who is this for?
+# Who is this for?
 - Beginners in Python  
 - Students (Diploma / Engineering)  
 - Anyone starting programming  
