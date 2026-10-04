@@ -206,7 +206,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
 
 ---
 
-## How to Use
+# How to Use
 1. Open any topic file  
 2. Read the notes  
 3. Try examples in your Python IDE
