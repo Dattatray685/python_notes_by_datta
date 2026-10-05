@@ -89,7 +89,7 @@ The goal is to make concepts simple, clear, and beginner-friendly.
       Genarate Random Numbers
       solving the linear systems
       
-#Numpy Task qu
+#Numpy Task 
       
       practice question 
 
